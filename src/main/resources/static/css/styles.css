@@ -160,6 +160,9 @@ input::file-selector-button {
 	color: var(--color-standard-button)!important;
 }
 
+.inecseario{
+	color: "blue"
+}
 
 .form-control:hover:not(:disabled):not([readonly])::file-selector-button {
 	background-color: var(--bgcolor-standard-button-hover)!important;
