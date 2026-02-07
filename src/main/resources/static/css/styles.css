@@ -172,7 +172,6 @@ input::file-selector-button {
 
 .authorship a, .authorship span {
 	color: var(--color-subtle);
-	text-decoration: none;
 }
 
 .authorship a:hover {
